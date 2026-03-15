@@ -25,10 +25,6 @@ Features increment/decrement, adjustable step size, keyboard support, and bounda
 A small website built with HTML & CSS Following the Odin-Project course.  
 [GitHub Repository](https://github.com/Fareast07/Odin-recipes)
 
-### JS Mini Projects
-A collection of tiny JavaScript experiments (calculator, to-do list, digital clock).  
-[GitHub Repository]()
-
 ---
 
 ## Contact
