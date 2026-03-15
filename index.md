@@ -31,5 +31,5 @@ A collection of tiny JavaScript experiments (calculator, to-do list, digital clo
 ---
 
 ## Contact
-**Email:** bd.fares1@gmail.com 
-**GitHub:** [https://github.com/Fareast07](https://github.com/Fareast07)
+**Email:**  bd.fares1@gmail.com 
+**GitHub:**  [https://github.com/Fareast07](https://github.com/Fareast07)
