@@ -4,7 +4,7 @@ title: Fares Boudechiche
 
 # Fares Boudechiche
 
-**Aspiring Web Developer | Learning React, JavaScript & Frontend Development**
+Aspiring Web Developer | Learning React, JavaScript & Frontend Development
 
 ---
 
