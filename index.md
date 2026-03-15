@@ -18,18 +18,18 @@ My goal is to create simple, clean projects that help me grow step by step and p
 
 ### React Counter App
 A basic React application with increment and reset buttons.  
-[GitHub Repository](https://github.com/YOUR-USERNAME/react-counter-app)
+[My-counter](https://github.com/Fareast07/my-counter)
 
 ### Simple Landing Page
-A small website built with HTML & CSS.  
-[GitHub Repository](https://github.com/YOUR-USERNAME/simple-landing-page)
+A small website built with HTML & CSS Following the Odin-Project course.  
+[Odin-recipes](https://github.com/Fareast07/Odin-recipes)
 
 ### JS Mini Projects
 A collection of tiny JavaScript experiments (calculator, to-do list, digital clock).  
-[GitHub Repository](https://github.com/YOUR-USERNAME/js-mini-projects)
+[GitHub Repository]()
 
 ---
 
 ## Contact
-**Email:** your-email@example.com  
-**GitHub:** [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**Email:** bd.fares1@gmail.com 
+**GitHub:** [https://github.com/Fareast07](https://github.com/Fareast07)
